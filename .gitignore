@@ -1,0 +1,11 @@
+/target/
+*.class
+*.log
+*.iml
+*.jar
+*.war
+*.ear
+*.swp
+.DS_Store
+.idea/
+*.bat
